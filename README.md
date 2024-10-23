@@ -1,1 +1,1 @@
-# openai-api-cost-to-db
+downloads usage from web and reforms it into a json format and stored into db
